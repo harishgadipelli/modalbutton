@@ -1,0 +1,178 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.name-container {
+    background-image: linear-gradient(to right, #FFC0C0, #FFFAE0, #F0FFF6);
+
+
+}
+
+.icon {
+    color: blue;
+    font-size: 24px;
+}
+
+.patient-name {
+    color: #00252F;
+    font-size: 12px;
+    font-family: "Roboto";
+    font-weight: 400;
+}
+
+.patient-details {
+    font-family: "Roboto";
+    font-size: 10px;
+    font-weight: 400;
+    color: #00252F;
+
+}
+
+.resident {
+    color: #00252F;
+    font-size: 10px;
+    font-family: "Roboto";
+    font-weight: 400;
+
+}
+
+.country-name {
+    font-family: "Roboto";
+    font-size: 10px;
+    font-weight: 400;
+
+}
+
+.country-container {
+    background-color: #FFFFFF;
+    height: 20px;
+    width: 67px;
+    text-align: center;
+    padding: 4px;
+    border-radius: 4px;
+    border: 1px;
+
+
+}
+
+.patient-icons {
+    color: #ED8383;
+    width: 10px;
+    height: 8px;
+    top: 2px;
+    left: 1px;
+}
+
+.admit-details {
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: 400;
+    color: #666666;
+    text-align: left;
+
+}
+
+.titles {
+    color: #AAAAAA;
+    font-family: "Roboto";
+    font-size: 10px;
+    font-weight: 400;
+}
+
+.card-container {
+    background-color: white;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    width: 100%;
+
+}
+
+.below-container {
+    background-color: #FFF6EF;
+    padding-left: 5px;
+    padding-top: 5px;
+}
+
+.card-container-below {
+    background-color: white;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+
+    width: 100%;
+
+}
+
+.admit-journy-card {
+    border-radius: 8px;
+}
+
+.admit-card-head {
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 100;
+}
+
+.enter-time-name {
+    font-family: "Roboto";
+    font-size: 10px;
+    font-weight: 400;
+}
+
+.time-container {
+    background-color: #FFFFFF;
+    height: 16px;
+    width: 45px;
+    text-align: center;
+    padding: 4px;
+    border-radius: 4px;
+    border: 1px;
+}
+
+.time {
+    font-family: "Roboto";
+    font-size: 10px;
+    font-weight: 400;
+    color: #FF0042;
+    text-align: center;
+}
+
+.check {
+    color: #3AB748;
+    font-size: 35px;
+}
+
+.admit-head {
+    font-family: "Roboto";
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.date-time {
+    font-family: Roboto;
+    font-size: 10px;
+    font-weight: 400;
+    color: #616161;
+}
+
+.doctor-name {
+    font-family: Roboto;
+    font-size: 10px;
+    font-weight: 400;
+}
+
+.doctor-icon {
+    font-size: 11px;
+}
+
+.admit-accept-icon {
+    width: 35px;
+    height: 35px;
+    border-radius: 40px;
+    background-color: lightgreen;
+    text-align: center;
+}
+
+.time-below {
+    font-family: "Roboto";
+    font-size: 10px;
+    font-weight: 400;
+
+
+}
